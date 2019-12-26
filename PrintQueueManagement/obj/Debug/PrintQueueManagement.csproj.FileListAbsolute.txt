@@ -1,0 +1,13 @@
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\Debug\PrintQueueManagement.exe.config
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\Debug\PrintQueueManagement.exe
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\Debug\PrintQueueManagement.pdb
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\Debug\HMT.dll
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\Debug\HMT.pdb
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.csprojAssemblyReference.cache
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.Form1.resources
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.Properties.Resources.resources
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.csproj.GenerateResource.cache
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.csproj.CoreCompileInputs.cache
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.csproj.CopyComplete
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.exe
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\Debug\PrintQueueManagement.pdb

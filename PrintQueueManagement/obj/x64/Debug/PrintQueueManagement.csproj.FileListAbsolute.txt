@@ -1,0 +1,10 @@
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\x64\Debug\PrintQueueManagement.exe.config
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\x64\Debug\PrintQueueManagement.exe
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\bin\x64\Debug\PrintQueueManagement.pdb
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.Form1.resources
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.Properties.Resources.resources
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.csproj.GenerateResource.cache
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.csproj.CoreCompileInputs.cache
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.exe
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.pdb
+C:\Users\REFİK\Source\Repos\PrintQueueManagement\PrintQueueManagement\obj\x64\Debug\PrintQueueManagement.csprojAssemblyReference.cache
